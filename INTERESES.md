@@ -3,4 +3,4 @@
 - RTL-SDR: outernet(inmarsat), monitoreo , escaneo , triangulacion de señales
 - APRS:ax25, enlaces IP por AX25, monitoreo remoto de repetidoras ,ax25 11m, iss
 - lista de escaneo http://piratepad.net/RCA
-- VFO para rastreo de globos meteorologicos
+- RDF para rastreo de globos meteorologicos / http://www.homingin.com/equipment.html
