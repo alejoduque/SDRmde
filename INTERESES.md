@@ -1,6 +1,3 @@
-Freq de encuentro  145.670Mhz /(con Beacon de Star wars cada minuto :D )
-
-
 # que queremos aprender:
 - [x]GNURadio: instalacion desde compilacion, uso basico, manejo de plugins,distintos OS
 - [ ]SDR: RTL-SDR, HackRF, otras.... configuracion, uso . . . . . .
