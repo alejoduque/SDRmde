@@ -1,7 +1,7 @@
 # que queremos aprender:
 [x]GNURadio: instalacion desde compilacion, uso basico, manejo de plugins,distintos OS
 [ ]SDR: RTL-SDR, HackRF, otras.... configuracion, uso . . . . . .
-[ ]APRS(ax.25): entender bien el protocolo y ver su potencial para redes de IoT, y usarlo mas!!!!!!
+[ ]APRS(ax.25): entender bien el protocolo y ver su potencial para redes de IoT, armar 2 TNC-pi adicionales para experimentar
 [ ]Construccion colectiva de la lista de escaneo http://piratepad.net/RCA de MDE
 [ ]RDF para rastreo de globos meteorologicos / http://www.homingin.com/equipment.html
 
